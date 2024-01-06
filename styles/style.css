@@ -204,7 +204,7 @@ info-title {
 
 .skill-title {
 
-    color: #181818;    
+    color: #181818;
     font-size: 20px;
     font-weight: 700;
 
@@ -216,4 +216,40 @@ info-title {
     font-size: 16px;
     font-weight: 400;
 
+}
+
+.resume-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.resume-item {
+    max-width: 510px;
+
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+
+
+}
+
+.resume-item-instititute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+hr{
+    margin: 30px 0px;
 }
